@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ROUAAAAAAAA
-- 👀 I’m interested in ...programming and data science
-- 🌱 I’m currently learning ...flutter and dart to create an app
-- 💞️ I’m looking to collaborate on ...a project concerning app devellopment
-- 📫 How to reach me ...via email rouamejri3@gmail.com
+ Hi, I'm Roua Mejri
 
-<!---
-ROUAAAAAAAA/ROUAAAAAAAA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 AI & Computer Science Engineer passionate about building intelligent solutions.
+🔭 I’m currently working on NLP projects, fine-tuning LLMs and building RAG-based systems.
+🌱 I’m deepening my knowledge in MLOps, AI agents and scalable AI deployment.
+🤝 I’m looking to collaborate on innovative AI/ML projects and mobile applications.
+📫 How to reach me: [rouamejri3@gmail.com](mailto:rouamejri3@gmail.com)
+📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/roua-mejri-3467b5225)
